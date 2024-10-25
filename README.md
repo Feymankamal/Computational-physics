@@ -1,4 +1,4 @@
-# Computational-physics-
+# Computational-physics
 The aim of this project is to provide Python codes for all exercises in the book **Computational physics by Mark-newman**. 
 Each chapter is written using **google colab** as a jupyter notebook so that you can run it directly in google colab. 
 ##### Road Map
